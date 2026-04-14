@@ -1,4 +1,4 @@
-# Hi 👋, I'm Sufyan  
+# Hi 👋, I'm Sufyan Ali
 
 🚀 Flutter Developer | Mobile (Android & iOS) apps and Website Engineer  
 💡 I build real-world, problem-solving applications (CRM, platforms, systems & custom solutions)  
