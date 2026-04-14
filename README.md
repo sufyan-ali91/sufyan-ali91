@@ -73,5 +73,5 @@ Charity donation & management platform (Android & iOS)
 ---
 
 ## 📫 Contact Me
-- 📧 Email: your@email.com  
+- 📧 Email: sufyanali9115@email.com  
 - 💼 GitHub: https://github.com/sufyan-ali91  
