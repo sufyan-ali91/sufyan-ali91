@@ -69,11 +69,6 @@ Charity donation & management platform (Android & iOS)
 
 ---
 
-## 📊 GitHub Stats
-![Sufyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sufyan-ali91&show_icons=true&theme=tokyonight)
-
----
-
 ## 📫 Contact Me
 - 📧 Email: your@email.com  
 - 💼 GitHub: https://github.com/sufyan-ali91  
