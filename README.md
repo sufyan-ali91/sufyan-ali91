@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sufyan  
 
-🚀 Flutter Developer | Mobile & Web App Engineer  
+🚀 Flutter Developer | Mobile (Android & iOS) apps and Website Engineer  
 💡 I build real-world, problem-solving applications (CRM, platforms, systems & custom solutions)  
 📍 Pakistan  
 
@@ -21,7 +21,6 @@
 ### 📱 PlayZy
 Sports buddy finder app (Android & iOS)  
 🔗 https://play.google.com/store/apps/details?id=com.serban.playzy  
-🌐 https://playzy.eu  
 
 ---
 
@@ -36,14 +35,18 @@ Local booking & service platform (Android & iOS)
 Charity donation & management platform (Android & iOS)  
 🔗 https://play.google.com/store/apps/details?id=com.cy.givehope  
 🍎 https://apps.apple.com/cy/app/givehope-cy/id6761359339  
-🌐 https://givehopecy.com  
+ 
 
 ---
 
 ## 🌐 Web Projects
 - https://stayslocal.eu/  
 - https://arapropertiesuae.com/  
-- https://mknailsnbeauty.com/  
+- https://mknailsnbeauty.com/
+- https://givehopecy.com/
+- https://playzy.eu/
+   
+   
 
 ---
 
