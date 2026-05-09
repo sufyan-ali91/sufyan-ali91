@@ -40,7 +40,8 @@ Charity donation & management platform (Android & iOS)
 ---
 
 ## 🌐 Web Projects
-- https://stayslocal.eu/  
+- https://stayslocal.eu/
+- https://stayslocalpartners.eu/
 - https://arapropertiesuae.com/  
 - https://mknailsnbeauty.com/
 - https://givehopecy.com/
